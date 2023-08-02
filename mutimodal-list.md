@@ -1,4 +1,4 @@
-### Multimodal AI Model Study 
+### Multimodal AI Model Study (Update : '23.07.15)
 
 | Source | Model | PT Datasize | Parameter | Vision | Language | Code | Release |
 | --- | --- | --- | --- | --- | --- | --- | --- |
